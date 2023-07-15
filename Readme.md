@@ -10,7 +10,7 @@ This is a simple email sender application that allows you to send emails using t
 
 ## How to Use
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/zdanshi/bot-email.git
