@@ -18,6 +18,7 @@ git clone https://github.com/zdanshi/bot-email.git
 
 Modify the following lines with your own email details
 
-Run the application:
-
+````
+2. Run the application:
+```bash
 python bot-email.py
